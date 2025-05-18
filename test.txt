@@ -1,0 +1,7 @@
+I have listed some tools that can be used for searching and extracting web content. Here are two tools:
+
+1. **tavily-search**: A powerful web search tool that provides comprehensive, real-time results using Tavily's AI search engine. It allows customization of result count, content type, and domain filtering.
+
+2. **tavily-extract**: A tool for retrieving and processing raw content from specified URLs. This is useful for data collection, content analysis, and research tasks.
+
+Would you like to use one of these tools or need more information on how they work?
