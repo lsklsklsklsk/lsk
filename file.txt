@@ -1,1 +1,1 @@
-为了给您提供北京的游玩方案，我们可以使用"maps_text_search"工具来查找相关的POI（兴趣点），例如景点、餐馆等。您是否有特定的兴趣点或者活动类型？如果没有，我将为您随机推荐一些热门的地点。请告诉我您的偏好。
+It seems there was an error fetching the tools list. Let's try a different approach. Could you please specify what task you need help with or what kind of information you're looking for? That way, I can choose the right tool or method to assist you effectively.
